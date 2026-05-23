@@ -36,7 +36,7 @@ export default function HomePage() {
         <h1>Discord Webhook Deploy Test</h1>
 
         <p>
-          This page is used to test Vercel deployment and Discord webhook notifications. xD
+          This page is used to test Vercel deployment and Discord webhook notifications.
         </p>
 
         <button onClick={sendTestNotification} disabled={loading}>
